@@ -4,7 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-<<<<<<< HEAD
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
@@ -13,7 +12,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-=======
-  - gold_number.md
-theme: jekyll-theme-cayman
->>>>>>> 158485f412da528051c948a8062fc131948027ed
